@@ -36,7 +36,7 @@ const Navbar = ({
         { href: "/", label: "Home", icon: HomeIcon },
         { href: "/cards", label: "Cards", icon: PanelsTopLeft },
         { href: "/about", label: "About", icon: Info },
-        { href: "/blog", label: "Blogs", icon: Newspaper },
+        // { href: "/blog", label: "Blogs", icon: Newspaper },
     ];
 
     const router = useRouter();
